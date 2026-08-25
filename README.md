@@ -20,6 +20,8 @@ Si decide cambiarlo de forma manual, debe además de actualizar la documentació
 
 Dentro del repositorio ya existen instrucciones para la actualización del documento con IA. Cada vez que se actualice, debe **actualizar la versión**.
 
+En ambos casos, se tiene que dejar registro de quien y que modificó.
+
 ## Reglas de colaboración (obligatorias)
 
 - Tomar la edición con seriedad: no arruinar la documentación.
